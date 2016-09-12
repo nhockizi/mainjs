@@ -1,0 +1,21 @@
+{
+  "name": "nhockizi-mainjs",
+  "authors": [
+    "kizi nhoc <nhockizi@gmail.com>"
+  ],
+  "description": "mainjs",
+  "main": "",
+  "keywords": [
+    "nhockizi"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "/.*",
+    "examples",
+    "composer.json",
+    "dataTables.jquery.json",
+    "package.json"
+  ],
+  "version": "1.0.0"
+}
